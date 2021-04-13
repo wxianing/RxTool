@@ -1,0 +1,5 @@
+include ':RxTool'
+include ':RxPopup'
+include ':RxDialog'
+include ':app'
+rootProject.name = "RxTool"
